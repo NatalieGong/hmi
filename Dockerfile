@@ -1,0 +1,1 @@
+FROM docker:17.12.0-ce-git
